@@ -4,6 +4,17 @@
 
 * **1. Executive Summary**
   * [1. Executive Summary](executive-summary/executive-summary.md)
+    * [Key Findings](executive-summary/executive-summary.md#key-findings)
+      * [Economic Strength](executive-summary/executive-summary.md#economic-strength)
+      * [Market Structure](executive-summary/executive-summary.md#market-structure)
+      * [Regulatory Environment](executive-summary/executive-summary.md#regulatory-environment)
+    * [Investment Opportunities](executive-summary/executive-summary.md#investment-opportunities)
+      * [1. High-Growth Sectors](executive-summary/executive-summary.md#1-high-growth-sectors)
+      * [2. Quantitative Strategies](executive-summary/executive-summary.md#2-quantitative-strategies)
+      * [3. MSCI Inclusion Play](executive-summary/executive-summary.md#3-msci-inclusion-play)
+    * [Key Risks](executive-summary/executive-summary.md#key-risks)
+      * [Market-Specific Risks](executive-summary/executive-summary.md#market-specific-risks)
+      * [Regulatory & Political Risks](executive-summary/executive-summary.md#regulatory--political-risks)
 
 * **2. Market Overview**
   * [2.1 Economic Landscape](market-overview/economic-landscape.md)
