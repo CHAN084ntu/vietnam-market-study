@@ -1,14 +1,23 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
     <title>Vietnam Market Study 101</title>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://unpkg.com/docsify/themes/vue.css" />
 </head>
 <body>
-    <h1>Welcome to Vietnam Market Study 101</h1>
-    <p>Your content goes here...</p>
-    <script src="script.js"></script>
+    <div id="app"></div>
+    <script src="https://unpkg.com/docsify/lib/docsify.min.js"></script>
+    <script>
+        window.$docsify = {
+            name: 'Vietnam Market Study 101',
+            repo: '',
+            loadSidebar: true,
+            subMaxLevel: 2,
+            homepage: 'home.md',
+            alias: { '/README.md': '/home.md', '/': '/home.md' },
+        };
+    </script>
 </body>
 </html>
